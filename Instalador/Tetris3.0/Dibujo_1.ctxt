@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Dibujo_1
+comment1.params=
+comment1.target=Dibujo_1()
+comment2.params=g
+comment2.target=void\ DbSiguiente(java.awt.Graphics)
+comment3.params=g\ al
+comment3.target=void\ DbFgSiguiente(java.awt.Graphics,\ int)
+comment4.params=g\ f
+comment4.target=void\ Figura(java.awt.Graphics,\ Figura)
+comment5.params=g\ p
+comment5.target=void\ figura(java.awt.Graphics,\ Punto)
+comment6.params=g\ f
+comment6.target=void\ DbFigura(java.awt.Graphics,\ Figura)
+numComments=7

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Punto
+comment1.params=X\ Y
+comment1.target=Punto(int,\ int)
+comment2.params=X\ Y\ a
+comment2.target=Punto(int,\ int,\ int)
+comment3.params=
+comment3.target=java.awt.Color\ getColor()
+comment4.params=
+comment4.target=int\ getX()
+comment5.params=
+comment5.target=int\ getY()
+comment6.params=a
+comment6.target=void\ setX(int)
+comment7.params=b
+comment7.target=void\ setY(int)
+comment8.params=p
+comment8.target=boolean\ equals(Punto)
+numComments=9
